@@ -3,7 +3,7 @@ Collaborative Assignment Repository
 --------------------------------------------------------------------
 "TEAM MEMBERS"
 ---------------------------------------------------------------------
--Ayush Rai
--Pavneet Kaur
--Ranu Rajput
--Rashmi Garg
+1. Ayush Rai
+2. Pavneet Kaur
+3. Ranu Rajput
+4. Rashmi Garg
